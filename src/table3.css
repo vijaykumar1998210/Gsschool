@@ -32,4 +32,16 @@
   .table3 td{
     font-weight: 600;
   }
+  .input_field12{
+    background: transparent;
+  border: none;
+  outline: none;
+  width: 45px;
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 1px;
+  padding-left: 2px;
+ 
+
+  }
   
