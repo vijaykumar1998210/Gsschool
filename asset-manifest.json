@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gsschool/static/css/main.1adf02d4.chunk.css",
+    "main.js": "/Gsschool/static/js/main.1ba92e16.chunk.js",
+    "main.js.map": "/Gsschool/static/js/main.1ba92e16.chunk.js.map",
+    "runtime-main.js": "/Gsschool/static/js/runtime-main.45329742.js",
+    "runtime-main.js.map": "/Gsschool/static/js/runtime-main.45329742.js.map",
+    "static/js/2.3f4fd604.chunk.js": "/Gsschool/static/js/2.3f4fd604.chunk.js",
+    "static/js/2.3f4fd604.chunk.js.map": "/Gsschool/static/js/2.3f4fd604.chunk.js.map",
+    "index.html": "/Gsschool/index.html",
+    "static/css/main.1adf02d4.chunk.css.map": "/Gsschool/static/css/main.1adf02d4.chunk.css.map",
+    "static/js/2.3f4fd604.chunk.js.LICENSE.txt": "/Gsschool/static/js/2.3f4fd604.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45329742.js",
+    "static/js/2.3f4fd604.chunk.js",
+    "static/css/main.1adf02d4.chunk.css",
+    "static/js/main.1ba92e16.chunk.js"
+  ]
+}
