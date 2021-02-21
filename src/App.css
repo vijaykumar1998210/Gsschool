@@ -24,11 +24,45 @@ body {
 }
 .bg_gradient{
   width: 100vw;
-  height:200vh;
+  height:400vh;
   position: absolute;
-  opacity: 0.06;
+  opacity: 0.08;
   left: 18%;
   top:25%;
   z-index: -1;
 }
-
+/* .printout{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+} */
+/* .print{
+  padding: 4px 30px;
+  background-color: #010165;
+  color: white;
+  border-radius: 25px;
+  margin-top: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.print:hover{
+  padding: 4px 30px;
+  background-color: white;
+  color: white;
+  border-radius: 25px;
+  margin-top: 15px;
+  font-size: 16px;
+  color : #010165;
+}
+ */
+ .print{
+  padding: 4px 30px;
+  background-color: #010165;
+  color: white;
+  border-radius: 25px;
+  margin-top: 15px;
+  font-size: 16px;
+  cursor: pointer;
+ 
+}
