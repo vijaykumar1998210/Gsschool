@@ -104,4 +104,14 @@ td {
   width: 56px;
   padding-left: 16px; 
 }
+.input_field14 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 40px;
+  font-weight: 600;
+  font-size: 12px;
+  padding-left: 8px;
+  /* background-color: aquamarine; */
+}
 
