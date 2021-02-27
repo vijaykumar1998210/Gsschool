@@ -8,6 +8,7 @@ import Table3 from "./Table3";
 import Table4 from "./Table4";
 import TeacherRemarks from "./TeacherRemarks";
 import { useReactToPrint } from "react-to-print";
+import TeacherSign from "./TeacherSign";
 
 export class App extends React.PureComponent {
   render() {
@@ -22,6 +23,7 @@ export class App extends React.PureComponent {
         <Table3 />
         <TeacherRemarks />
         <Table4 />
+        <TeacherSign />
         <div
           className="bg_gradient"
           style={{

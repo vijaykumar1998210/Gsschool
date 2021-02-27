@@ -11,15 +11,19 @@ function Table1() {
 
             <tr>
                 <th className="w1">name of the student</th>
-                <th colSpan="2" className="w2"><input className="input_field" type="text"/></th>
-                <th>adm. no</th>
-                <th><input className="input_field1" type="text"/></th>
-                <th>Roll . no</th>
-                <th><input className="input_field1" type="text"/></th>
+                <th colSpan="3" className="w2"><input className="input_field" type="text"/></th>
+                <th className="adm">adm. no</th>
+                <th><input className="input_field24" type="text"/></th>
+                {/* <th><input className="input_field1" type="text"/></th> */}
+                {/* <th colSpan=""></th>
+                <th><input className="input_field1" type="text"/></th> */}
+                
             </tr>
             <tr>
                 <td className="w1">class & sec.</td>
-                <td colSpan="6"><input className="input_field" type="text"/></td>
+                <td colSpan=""><input className="input_field" type="text"/></td>
+                <td colSpan="2">Roll . no</td>
+                <td colSpan="2"><input className="input_field1" type="text"/></td>
             </tr>
             <tr>
                 <td className="w1">mother's name</td>

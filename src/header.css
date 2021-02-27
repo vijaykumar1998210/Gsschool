@@ -62,7 +62,7 @@
     }
     .header_line{
         width: 99%;
-        margin: auto;
+        margin-top: 20px;
         height: 3px;
         background-color: black;
     }

@@ -38,9 +38,11 @@ td {
 }
 .w1 {
   width: 200px;
+
 }
 .w2 {
-  width: 150px;
+  width: 100px;
+  
 }
 .Table1_head1 {
   font-size: 16px;
@@ -76,4 +78,16 @@ td {
   outline: none;
   width: 60px;
   font-weight: 600;
+}
+.input_field24 {
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 100px;
+  font-weight: 600;
+}
+
+
+.adm{
+
 }

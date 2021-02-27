@@ -130,7 +130,7 @@ function Table2() {
           
         </tr>
         <tr>
-          <td className="w3">social-science</td>
+          <td className="w3">social science</td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
@@ -147,7 +147,7 @@ function Table2() {
           
         </tr>
         <tr>
-          <td className="w7">Total attendence</td>
+          <td className="w7">Total Attendence</td>
           <td className="w7" colSpan="5">Term-1 :<input className="input_field3" type="text"/></td>
           <td className="w7" colSpan="8">Term -2 :<input className="input_field3" type="text"/></td>
     
