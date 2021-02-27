@@ -30,7 +30,7 @@
     display: block;
     width: 100px;
     height: 100px;
-  
+ 
     cursor: pointer;
     background-color: rgba(245, 245, 231, 0.1);
   }
@@ -59,6 +59,7 @@
     width: 100px;
     height: 100px;
     object-fit: contain;
+    
   
     /* border: 16px rgb(80, 199, 235) solid; */
   }

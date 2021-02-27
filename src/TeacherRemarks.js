@@ -13,7 +13,7 @@ function TeacherRemarks() {
       </div>
       <div className="teacher_box1">
         <label htmlFor="" className="teacher_label">
-          Results :
+          Result :
         </label>
 
         <input type="text" className="teacher_input" />

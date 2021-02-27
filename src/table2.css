@@ -31,6 +31,7 @@ td {
   text-align: center;
   text-transform: capitalize;
   padding: 2px;
+  font-weight: 800;
 }
 .w5 {
   text-align: center;
@@ -113,5 +114,15 @@ td {
   font-size: 12px;
   padding-left: 8px;
   /* background-color: aquamarine; */
+}
+.input_field25{
+  background: transparent;
+  border: none;
+  outline: none;
+  width: 40px;
+  font-weight: 600;
+  font-size: 12px;
+  padding-left: 12px;
+  /* background-color: aquamarine */
 }
 

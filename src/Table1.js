@@ -5,7 +5,7 @@ function Table1() {
     return (
         <div className="table1div">
         <p className="Table1_head1">Report Card</p>
-        <h1 className="Table1_head2">ACADEMIC SESSION : <input className="input_head" type="text"/></h1>
+        <h1 className="Table1_head2">ACADEMIC SESSION : 2020-2021</h1>
         <p></p>
         <table className="table1">
 
@@ -22,21 +22,24 @@ function Table1() {
             <tr>
                 <td className="w1">class & sec.</td>
                 <td colSpan=""><input className="input_field" type="text"/></td>
-                <td colSpan="2">Roll . no</td>
+                <td colSpan="2">Roll no.</td>
                 <td colSpan="2"><input className="input_field1" type="text"/></td>
             </tr>
             <tr>
                 <td className="w1">mother's name</td>
                 <td colSpan="6"><input className="input_field" type="text"/></td>
+                
             </tr>
             <tr>
                 <td className="w1">father's name</td>
-                <td colSpan="6"><input className="input_field" type="text"/></td>
+                <td colSpan="2"><input className="input_field" type="text"/></td>
+                <td className="w1" colSpan="">d.o.b</td>
+                <td colSpan="2" className="ch1"><input className="input_field ch2" type="text"/></td>
             </tr>
-            <tr>
-                <td className="w1">dob</td>
+            {/* <tr>
+                <td className="w1">d.o.b</td>
                 <td colSpan="6"><input className="input_field" type="text"/></td>
-            </tr>
+            </tr> */}
         </table>
             
         </div>

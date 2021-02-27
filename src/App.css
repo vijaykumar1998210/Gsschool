@@ -16,6 +16,11 @@ body {
   height: 1122px;
   position: relative;
   z-index: 2;
+  /* border: 2px solid black;
+  padding: 0px 20px; */
+  
+  /* padding: 20px; */
+  /* padding-bottom: 00px; */
 }
 .photo_container {
   position: absolute;
@@ -63,7 +68,7 @@ flex-direction: column;
   background-color: #010165;
   color: white;
   border-radius: 25px;
-  margin-top: 55px;
+  margin-top: 75px;
   font-size: 16px;
   cursor: pointer;
  

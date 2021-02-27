@@ -7,20 +7,20 @@ function Table2() {
       <table className="table2">
         <tr>
           <th className="w5">scholastic Areas</th>
-          <th colSpan="5" className="w5">term-1(100 marks)</th>
-          <th colSpan="5" className="w5">term-2(100 marks)</th>
-          <th rowSpan="2" className="w4">grand total Term - 1+2</th>
-          <th rowSpan="2" className="w4">Total Per(%)</th>
-          <th rowSpan="2" className="w4"> Overall grade - 1+2</th>
+          <th colSpan="5" className="w5">term-1 (100 marks)</th>
+          <th colSpan="5" className="w5">term-2 (100 marks)</th>
+          <th rowSpan="2" className="w4">grand total Term  1+2</th>
+          <th rowSpan="2" className="w4">Total (%)</th>
+          <th rowSpan="2" className="w4"> Overall grade  1+2</th>
         </tr>
         <tr>
         
-          <th className="w4">subject</th>
+          <th className="w4">subjects</th>
           <th>Periodic test</th>
           <th className="w4">Note Book</th>
           <th className="w4">Subject Enrich.</th>
           <th className="w4">half yearly exam</th>
-          <th className="w4">marks obatined</th>
+          <th className="w4">marks obtained</th>
           <th className="w4">periodic test</th>
           <th className="w4">note book</th>
           <th className="w4">Subject Enrich.</th>
@@ -50,12 +50,12 @@ function Table2() {
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field10" type="text"/></td>
           <td className="head1_color"><input className="input_field2 input_field14" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
@@ -67,12 +67,12 @@ function Table2() {
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field10" type="text"/></td>
           <td className="head1_color"><input className="input_field2 input_field14" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
@@ -84,12 +84,12 @@ function Table2() {
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field10" type="text"/></td>
           <td className="head1_color"><input className="input_field2 input_field14" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
@@ -101,12 +101,12 @@ function Table2() {
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field10" type="text"/></td>
           <td className="head1_color"><input className="input_field2 input_field14" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
@@ -118,12 +118,12 @@ function Table2() {
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field10" type="text"/></td>
           <td className="head1_color"><input className="input_field2 input_field14" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
@@ -135,21 +135,21 @@ function Table2() {
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           <td className="head1_color"><input className="input_field9 input_field11" type="text"/></td>
-          <td className="head1_color"><input className="input_field2" type="text"/></td>
+          <td className="head1_color"><input className="input_field2 input_field25" type="text"/></td>
           <td className="head1_color"><input className="input_field10" type="text"/></td>
           <td className="head1_color"><input className="input_field2 input_field14" type="text"/></td>
           <td className="head1_color"><input className="input_field2" type="text"/></td>
           
         </tr>
         <tr>
-          <td className="w7">Total Attendence</td>
-          <td className="w7" colSpan="5">Term-1 :<input className="input_field3" type="text"/></td>
-          <td className="w7" colSpan="8">Term -2 :<input className="input_field3" type="text"/></td>
+          <td className="w7">Total Attendance</td>
+          <td className="w7" colSpan="5">Term 1 :<input className="input_field3" type="text"/></td>
+          <td className="w7" colSpan="8">Term 2 :<input className="input_field3" type="text"/></td>
     
           
         </tr>

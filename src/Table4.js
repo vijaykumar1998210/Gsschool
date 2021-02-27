@@ -8,7 +8,7 @@ function Table4() {
       <table className="table4">
         <tr>
           <td>MARKS RANGE</td>
-          <td>GRADE</td>
+          <td>GRADES</td>
         </tr>
         <tr>
           <td>91-100</td>
