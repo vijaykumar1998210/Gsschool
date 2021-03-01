@@ -24,6 +24,7 @@ export class App extends React.PureComponent {
         <TeacherRemarks />
         <Table4 />
         <TeacherSign />
+        
         <div
           className="bg_gradient"
           style={{
@@ -48,9 +49,9 @@ const Example1 = () => {
   return (
     <div className="printout">
       <App ref={componentRef} />
-      <button className="print" onClick={handlePrint} style={{}}>
+      {/* <button className="print" onClick={handlePrint} style={{}}>
         Print this out!
-      </button>
+      </button> */}
     </div>
   );
 };
