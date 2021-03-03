@@ -27,7 +27,7 @@ td {
 .table1 th {
   font-weight: 600;
   text-transform: uppercase;
-  padding: 4px;
+  padding: 5px;
   letter-spacing: 1px;
 }
 .table1 td {
@@ -76,7 +76,7 @@ td {
   background: transparent;
   border: none;
   outline: none;
-  width: 60px;
+  width: 80px;
   font-weight: 600;
 }
 .input_field24 {
