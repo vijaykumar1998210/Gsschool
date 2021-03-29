@@ -1,4 +1,4 @@
-import React ,{useRef}from "react";
+import React, { useRef } from "react";
 import "./App.css";
 import Header from "./Header";
 import Photo from "./Photo";
@@ -15,16 +15,14 @@ export class App extends React.PureComponent {
     return (
       <div className="App">
         <Header />
-        <div className="photo_container">
-          <Photo />
-        </div>
+        <div className="photo_container"></div>
         <Table1 />
         <Table2 />
         <Table3 />
         <TeacherRemarks />
         <Table4 />
         <TeacherSign />
-        
+
         <div
           className="bg_gradient"
           style={{
