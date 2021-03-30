@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Gsschool/static/css/main.45fc94a7.chunk.css",
-    "main.js": "/Gsschool/static/js/main.622ac093.chunk.js",
-    "main.js.map": "/Gsschool/static/js/main.622ac093.chunk.js.map",
+    "main.css": "/Gsschool/static/css/main.6cfc8307.chunk.css",
+    "main.js": "/Gsschool/static/js/main.597729ee.chunk.js",
+    "main.js.map": "/Gsschool/static/js/main.597729ee.chunk.js.map",
     "runtime-main.js": "/Gsschool/static/js/runtime-main.45329742.js",
     "runtime-main.js.map": "/Gsschool/static/js/runtime-main.45329742.js.map",
-    "static/js/2.461fb439.chunk.js": "/Gsschool/static/js/2.461fb439.chunk.js",
-    "static/js/2.461fb439.chunk.js.map": "/Gsschool/static/js/2.461fb439.chunk.js.map",
+    "static/js/2.23478b38.chunk.js": "/Gsschool/static/js/2.23478b38.chunk.js",
+    "static/js/2.23478b38.chunk.js.map": "/Gsschool/static/js/2.23478b38.chunk.js.map",
     "index.html": "/Gsschool/index.html",
-    "static/css/main.45fc94a7.chunk.css.map": "/Gsschool/static/css/main.45fc94a7.chunk.css.map",
-    "static/js/2.461fb439.chunk.js.LICENSE.txt": "/Gsschool/static/js/2.461fb439.chunk.js.LICENSE.txt"
+    "static/css/main.6cfc8307.chunk.css.map": "/Gsschool/static/css/main.6cfc8307.chunk.css.map",
+    "static/js/2.23478b38.chunk.js.LICENSE.txt": "/Gsschool/static/js/2.23478b38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.45329742.js",
-    "static/js/2.461fb439.chunk.js",
-    "static/css/main.45fc94a7.chunk.css",
-    "static/js/main.622ac093.chunk.js"
+    "static/js/2.23478b38.chunk.js",
+    "static/css/main.6cfc8307.chunk.css",
+    "static/js/main.597729ee.chunk.js"
   ]
 }
